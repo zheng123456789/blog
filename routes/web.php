@@ -32,3 +32,4 @@ Route::get('/admin',function(){
 	//新增文章
 	Route::resource("admin","Admin\AddController");
 	// Route::resource("goods","Admin\GoodsController"); //商品管理
+	Route::get("admin/logout","Admin\LoginController@logout");//执行退出 

@@ -154,19 +154,16 @@ h1 {
 
 #templatemo_content_area {
 	width: 930px;
-	/*border:2px red solid;*/
 }
 
 #templatemo_left {
 	width: 600px;
 	float: left;
-	/*border:3px blue solid;*/
 }
 
 .templatemo_post {
 	width:	600px;
 	margin: 0 0 10px 0 ;
-	/*border:2px black solid;*/
 }
 
 .templatemo_post_title {
@@ -176,7 +173,6 @@ h1 {
 	font-size: 18px;
 	padding: 10px 0 0 20px;
 	margin: 0;
-	/*border:2px red solid;*/
 }
 
 .templatemo_post_title a {
@@ -193,7 +189,6 @@ h1 {
 	border-left: 1px #cccccc solid;
 	border-right: 1px #cccccc solid;
 	padding: 20px 20px 10px 20px;
-	/*border:1px red solid;*/
 }
 
 .templatemo_post_text img {
@@ -201,7 +196,6 @@ h1 {
 	margin: 0 10px 10px 0;
 	border: 1px solid #ccc;
 	padding: 5px;
-	/*border:1px yellow solid;*/
 }
 
 .templatemo_post_bottom {

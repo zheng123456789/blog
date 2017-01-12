@@ -36,13 +36,14 @@ function clearText(field)
         
             <div id="templatemo_menu">
                 <ul>
-                    <li><!-- <a href="#">Home</a> -->这里是黄框里面的字</li>
-                    <!-- <li class="current"><a href="#">Gallery/导航</a></li>
+
+                    <li><a href="#">Home</a></li>
+                    <li class="current"><a href="#">Gallery/画廊</a></li>
                     <li><a href="#">Archives/档案</a></li>
-                    <li><a href="#">Wallpapers/壁纸</a></li>                        
+                    <!-- <li><a href="#">Wallpapers/壁纸</a></li>                         -->
                     <li><a href="#">Downloads/下载</a></li>
                     <li><a href="http://www.cssmoban.com" target="_parent">Templates/模板</a></li>   
-                    <li><a href="#">Contact/联系</a></li>    -->   
+                    <li><a href="#">Contact/联系</a></li>      
                 </ul>
             </div>
             
@@ -93,10 +94,6 @@ function clearText(field)
                     <div class="templatemo_section_bottom">
                         <ul class="templatemo_list">
                             <li><a href="#">Amet massdtess vivamus sed condimentum ipsum</a></li>
-                           <!--  <li><a href="#">Donec nec justo eget felis facilisis fermentum</a></li>
-                            <li><a href="#">Fusce lobortis lorem at ipsum sem</a></li>
-                            <li><a href="#">Nulla vitae mau ris non felis mollis fau cibus</a></li>
-                            <li><a href="#">Cras ornare tristique elit conval lis</a></li> -->
                         </ul>
                     </div>
                 </div>
